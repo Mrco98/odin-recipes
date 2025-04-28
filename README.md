@@ -1,6 +1,6 @@
 # odin-recipes
 
-<h1>INTRODUCTION</h1>
+<h2>INTRODUCTION~</h2>
 
 In this project, I will be utilizing my knowledge in HTML to develop a recipes webpage.
 
@@ -9,7 +9,7 @@ Skills:
  - Problem-Solving Skills
  - Logical Thinking
 
-REFLECTION
+<h2>REFLECTION</h2>
 
 After developing the project, I have successfully enhanced my mastery of HTML.
 
