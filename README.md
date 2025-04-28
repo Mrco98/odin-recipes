@@ -1,6 +1,6 @@
 # odin-recipes
 
-INTRODUCTION
+<h1>INTRODUCTION</h1>
 
 In this project, I will be utilizing my knowledge in HTML to develop a recipes webpage.
 
